@@ -1,5 +1,6 @@
 {
-  "name": "TicTacToe",
-  "identifier": "com.metrological.app.TicTacToe",
-  "version": "1.0.0"
+  "name": "fabiansLngPlayground",
+  "identifier": "com.domain.app.fabiansLngPlayground",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
 }
